@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ow_stadium_index/static/css/main.e9e7cf43.css",
+    "main.js": "/ow_stadium_index/static/js/main.fba23439.js",
+    "index.html": "/ow_stadium_index/index.html",
+    "main.e9e7cf43.css.map": "/ow_stadium_index/static/css/main.e9e7cf43.css.map",
+    "main.fba23439.js.map": "/ow_stadium_index/static/js/main.fba23439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9e7cf43.css",
+    "static/js/main.fba23439.js"
+  ]
+}
